@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  StudyNeuralNetwork.cpp
+d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\matrix.h(214): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\matrix.h(209): note: クラス テンプレート のメンバー関数 'Matrix<double> Matrix<double>::operator *(const Matrix<double> &) const' のコンパイル中
+  d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\studyneuralnetwork.cpp(111): note: コンパイル対象の関数 テンプレート インスタンス化 'Matrix<double> Matrix<double>::operator *(const Matrix<double> &) const' のリファレンスを確認してください
+  d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\studyneuralnetwork.cpp(55): note: コンパイル対象の クラス テンプレート インスタンス化 'Matrix<double>' のリファレンスを確認してください
+d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\matrix.h(216): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\matrix.h(219): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\matrix.h(302): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\matrix.h(300): note: クラス テンプレート のメンバー関数 'Matrix<double> Matrix<double>::transpose(void) const' のコンパイル中
+  d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\studyneuralnetwork.cpp(131): note: コンパイル対象の関数 テンプレート インスタンス化 'Matrix<double> Matrix<double>::transpose(void) const' のリファレンスを確認してください
+d:\visualstudio2017\workspace\studyneuralnetwork\studyneuralnetwork\matrix.h(304): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  StudyNeuralNetwork.vcxproj -> D:\visualstudio2017\workspace\StudyNeuralNetwork\Debug\StudyNeuralNetwork.exe
